@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;org.eclipse.papyrus.javagen.Library Management System/src-gen/Library Management System&apos; to &apos;Library&apos;" description="Rename resource &apos;Library Management System&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src-gen/Library Management System" name="Library" stamp="1712774039263" updateReferences="true"/>
+</session>

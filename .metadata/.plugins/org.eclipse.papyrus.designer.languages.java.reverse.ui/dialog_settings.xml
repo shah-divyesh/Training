@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="/Library Management System/Library Management System.umlorg.eclipse.papyrus.javagen.Library Management System:projectName" value="org.eclipse.papyrus.javagen.Library"/>
+	<item key="/Library Management System/Library Management System.umlorg.eclipse.papyrus.javagen.Library Management System:selectedParserIndex" value="1"/>
+	<list key="/Library Management System/Library Management System.umlorg.eclipse.papyrus.javagen.Library Management System:searchpaths">
+		<item value="java"/>
+		<item value="*"/>
+		<item value="osgi.*"/>
+		<item value="datatype"/>
+	</list>
+	<list key="/Library Management System/Library Management System.umlorg.eclipse.papyrus.javagen.Library Management System:creationpaths">
+		<item value="java.* ; ; java"/>
+		<item value="org.eclipse.papyrus.* ; ; *"/>
+		<item value="org.eclipse.* ; org.eclipse.papyrus.* ; *"/>
+		<item value=" org.osgi.* ; ; osgi.*"/>
+		<item value=" datatype.* ; ; datatype"/>
+	</list>
+</section>
