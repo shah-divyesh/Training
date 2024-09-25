@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;Library Managment System/Library Managment System.di&apos; to &apos;Library Management System.di&apos;" description="Rename resource &apos;Library Managment System.di&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Library Managment System.di" name="Library Management System.di" stamp="1712432349451" updateReferences="true"/>
-</session>
